@@ -10,7 +10,8 @@
         "drupal/social_api": "^1.1",
         "drupal/social_auth_facebook": "^1.0",
         "drupal/module_filter": "^3.1",
-        "drupal/pathauto": "^1.0"
+        "drupal/pathauto": "^1.0",
+        "drupal/ds": "^3.1"
     },
     "replace": {
         "drupal/core": "^8.5"
